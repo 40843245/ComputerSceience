@@ -1,0 +1,35 @@
+In this article, I will tell you some common instructions in Intel.
+
+------------------------------------
+Instruction:
+
+Here, I define that S refers source, D refers destination.
+(1.1)movement:
+mov D,S;
+move values in S to values in D.
+
+(1.2)Operation:
+(1.2.1)+:
+add D,S;
+Add value in S from value in D to value in D.
+(1.2.2)-:
+sub D,S;
+Subtract value in S from value in D to value in D.
+
+(1.3)
+(1.3.1)push:
+push S;
+push S into the stack in stack section.
+(1.3.2)pop:
+pop D;
+get the top value from the stack and store it to D then popup.
+
+(1.4)label:
+call <label>;
+call the function named <label>, it will allocate new empty stack for the function.
+
+
+------------------------------------
+[ref]
+https://tech-blog.cymetrics.io/posts/crystal/reverse-01/
+
