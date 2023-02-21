@@ -13,14 +13,18 @@ IE8 -> 2083
 
 IE10 -> 2083
 
-Browser     Address bar   document.location
-                          or anchor tag
+Browser     Address bar   document.location or anchor tag
 ------------------------------------------
 Chrome          32779           >64k
+
 Android          8192           >64k
+
 Firefox          >64k           >64k
+
 Safari           >64k           >64k
+
 IE11             2047           5120
+
 Edge 16          2047          10240
 
 ### Ref
