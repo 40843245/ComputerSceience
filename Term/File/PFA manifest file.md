@@ -1,4 +1,8 @@
 # PFA Manifest File
+## Recall 
+1. PFA
+https://github.com/40843245/ComputerSceience/blob/main/Term/File/PFA.md
 
-What is a PFA file?
-A .PFA file is a PostScript Type 1 Font file.
+2. Manifest File
+https://github.com/40843245/ComputerSceience/blob/main/Term/File/Manifest%20file.md
+
